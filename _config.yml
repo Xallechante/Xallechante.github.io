@@ -20,11 +20,14 @@ author: yassin oulafou
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+Faculte: "aboutme"
+MP : "aboutme"
+PSI : "aboutme"
+ECT : "aboutme"
+Faculte :
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+Nos formations : "https://deanattali.com"
 
 ################
 # --- Logo --- #
